@@ -2,6 +2,6 @@
 
 This is my camera effects project.
 
-![picture_title](picture filename?raw=true "Optional Title")
+![Yeltson Parada](https://github.com/yeltsonparada/yeltsonparada.github.io/blob/master/Yeltson%20Parada.PNG?raw=true "Optional Title")
 
 ***
